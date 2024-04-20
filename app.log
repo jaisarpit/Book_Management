@@ -1,0 +1,3 @@
+2024-04-21 00:14:04,777 - 6755a750-1ae4-4699-9a3a-bf4c01825bb0 - logger - INFO - Starting request 6755a750-1ae4-4699-9a3a-bf4c01825bb0: GET /get-book
+2024-04-21 00:14:04,882 - 6755a750-1ae4-4699-9a3a-bf4c01825bb0 - logger - INFO -  Book details fetched successfully: [{'id': 2, 'name': 'Sample Book 2', 'description': 'This is a sample book 2', 'num_pages': 100, 'author_name': 'John Doe', 'publisher_name': 'Publisher 2'}, {'id': 3, 'name': 'Sample Book 3', 'description': 'This is a sample book 3', 'num_pages': 300, 'author_name': 'John maken', 'publisher_name': 'Publisher 2'}]
+2024-04-21 00:14:04,883 - 6755a750-1ae4-4699-9a3a-bf4c01825bb0 - logger - INFO - Ending request 6755a750-1ae4-4699-9a3a-bf4c01825bb0: GET /get-book - Status 200

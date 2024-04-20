@@ -6,3 +6,4 @@ class Config:
     SQLALCHEMY_TRACK_MODIFICATIONS = False
     JWT_SECRET_KEY = os.environ.get('SECRET_KEY')  # Replace with your secret key
     JWT_ACCESS_TOKEN_EXPIRES = timedelta(days=1)
+    REQUEST_ID_UNIQUE_VALUE_PREFIX = 'ABC'
